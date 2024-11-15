@@ -160,9 +160,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-TestingFolder
-Dataset/The UNSW-NB15 description.pdf
-Dataset/UNSW-NB15_1.csv
-Dataset/UNSW-NB15_2.csv
-Dataset/UNSW-NB15_3.csv
-Dataset/UNSW-NB15_4.csv
+
+DATASET/ORIGINAL-DATASET/UNSW-NB15_1.csv
+DATASET/ORIGINAL-DATASET/UNSW-NB15_2.csv
+DATASET/ORIGINAL-DATASET/UNSW-NB15_3.csv
+DATASET/ORIGINAL-DATASET/UNSW-NB15_4.csv
+
+TESTING-DIRECTORY/OTHERS/anomaly-detection.ipynb
+TESTING-DIRECTORY/OTHERS/network-anomaly.ipynb
+TESTING-DIRECTORY/OTHERS/network-security-project.ipynb
+TESTING-DIRECTORY/OTHERS/temp.ipynb
