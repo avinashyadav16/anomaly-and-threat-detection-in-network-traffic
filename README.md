@@ -67,6 +67,50 @@ You can download the complete dataset from the official website here:
    <!-- - Extend the system to analyze real-time network traffic data.
    - Integrate the trained model into a real-time monitoring system to detect threats in live network traffic. -->
 
+## Directory Structure For Project Setup:
+
+<pre>
+│   .gitignore
+│   01_DatasetPreloading.ipynb
+│   02_EDA.ipynb
+│   03_DecisionTree.ipynb
+│   04_kNN.ipynb
+│   05_RandomForest.ipynb
+│   LICENSE
+│   README.md
+│   
+├───DATASET
+│   ├───EDA-DATASET
+│   │       x_test_scaled.csv
+│   │       x_train_scaled.csv
+│   │       y_test.csv
+│   │       y_train.csv
+│   │       
+│   ├───FULL-DATASET
+│   │       fullDF.csv
+│   │       
+│   └───ORIGINAL-DATASET
+│       │   NUSW-NB15_features.csv
+│       │   NUSW-NB15_GT.csv
+│       │   The UNSW-NB15 description.pdf
+│       │   UNSW-NB15_1.csv
+│       │   UNSW-NB15_2.csv
+│       │   UNSW-NB15_3.csv
+│       │   UNSW-NB15_4.csv
+│       │   UNSW-NB15_LIST_EVENTS.csv
+│       │
+│       └───TRAINING-AND-TESTING-SET
+│               UNSW_NB15_testing-set.csv
+│               UNSW_NB15_training-set.csv
+│
+└───TESTING-DIRECTORY
+    ├───EDA
+    │       x_test_scaled.csv
+    │       x_train_scaled.csv
+    │       y_test.csv
+    │       y_train.csv
+</pre>
+
 ## Results:
 
 - Once the model is trained, it should be able to detect anomalies in network traffic with high accuracy.
