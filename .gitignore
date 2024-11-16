@@ -161,20 +161,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-
-
-
-DATASET/ORIGINAL-DATASET/UNSW-NB15_4.csv
+DATASET/FULL-DATASET/fullDF.csv
 
 TESTING-DIRECTORY/OTHERS/02_EDA.ipynb
 TESTING-DIRECTORY/OTHERS/anomaly-detection.ipynb
 TESTING-DIRECTORY/OTHERS/network-anomaly.ipynb
 TESTING-DIRECTORY/OTHERS/network-security-project.ipynb
 TESTING-DIRECTORY/OTHERS/temp.ipynb
-
-DATASET/FULL-DATASET/fullDF.csv
-
-TESTING-DIRECTORY/EDA/x_test_scaled.csv
-TESTING-DIRECTORY/EDA/x_train_scaled.csv
-TESTING-DIRECTORY/EDA/y_test.csv
-TESTING-DIRECTORY/EDA/y_train.csv
