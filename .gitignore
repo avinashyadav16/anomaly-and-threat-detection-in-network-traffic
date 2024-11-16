@@ -178,13 +178,3 @@ TESTING-DIRECTORY/EDA/x_test_scaled.csv
 TESTING-DIRECTORY/EDA/x_train_scaled.csv
 TESTING-DIRECTORY/EDA/y_test.csv
 TESTING-DIRECTORY/EDA/y_train.csv
-
-DATASET/EDA-DATASET/x_test_scaled.csv
-DATASET/EDA-DATASET/x_train_scaled.csv
-DATASET/EDA-DATASET/y_test.csv
-DATASET/EDA-DATASET/y_train.csv
-
-Dataset/EDA-DATASET/x_test_scaled.csv
-Dataset/EDA-DATASET/x_train_scaled.csv
-Dataset/EDA-DATASET/y_test.csv
-Dataset/EDA-DATASET/y_train.csv
