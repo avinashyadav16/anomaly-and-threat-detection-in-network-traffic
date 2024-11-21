@@ -102,13 +102,6 @@ You can download the complete dataset from the official website here:
 │       └───TRAINING-AND-TESTING-SET
 │               UNSW_NB15_testing-set.csv
 │               UNSW_NB15_training-set.csv
-│
-└───TESTING-DIRECTORY
-    ├───EDA
-    │       x_test_scaled.csv
-    │       x_train_scaled.csv
-    │       y_test.csv
-    │       y_train.csv
 </pre>
 
 ## Results:
